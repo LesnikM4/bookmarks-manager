@@ -1,0 +1,11 @@
+{
+  "name": "Bookmarks Manager",
+  "description": "",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "main.html",
+    "default_icon": "bookmarks_manager.png"
+  },
+  "permissions": ["bookmarks", "tabs", "activeTab"]
+}
